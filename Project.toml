@@ -36,9 +36,7 @@ FuncTransforms = "0.1"
 GPUArrays = "10, 11"
 NNlib = "0.9"
 Static = "0.7, 0.8, 1"
-Zygote = "0.6"
 cuDNN = "1"
-julia = "1.10"
 
 [extras]
 AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"

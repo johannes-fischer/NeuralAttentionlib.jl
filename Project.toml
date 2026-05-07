@@ -29,14 +29,14 @@ NeuralAttentionlibZygoteExt = "Zygote"
 [compat]
 AMDGPU = "1"
 Adapt = "4"
-CUDA = "5"
+CUDA = "5,6"
 ChainRulesCore = "1.25.1"
 FiniteDifferences = "0.12"
 FuncTransforms = "0.1"
 GPUArrays = "10, 11"
 NNlib = "0.9"
 Static = "0.7, 0.8, 1"
-cuDNN = "1"
+cuDNN = "1,5,6"
 
 [extras]
 AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
